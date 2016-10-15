@@ -1,0 +1,26 @@
+{
+  "name": "my-own-angular",
+  "version": "0.1.0",
+  "description": "following along with the build your own angularjs book",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine",
+    "lint": "jshint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NerdcoreSteve/my-own-angular.git"
+  },
+  "author": "Steve Smith",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/NerdcoreSteve/my-own-angular/issues"
+  },
+  "homepage": "https://github.com/NerdcoreSteve/my-own-angular#readme",
+  "devDependencies": {
+    "jshint": "^2.9.3"
+  }
+}

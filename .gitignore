@@ -1,0 +1,6 @@
+# Vim stuff
+*~
+.*.sw*
+
+#node stuff
+node_modules
