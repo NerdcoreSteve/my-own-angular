@@ -1,5 +1,5 @@
 describe('Hello', () => {
     it('says hello', () => {
-        expect(sayHello()).toBe('Hello, world!')
+        expect(sayHello()).toBe('Hey there!')
     })
 })

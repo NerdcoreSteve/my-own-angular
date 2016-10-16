@@ -2,7 +2,7 @@
     "browser": true,
     "browserify": true,
     "devel": true,
-    "esversion": 6,
+    "esnext": true,
     "asi": true,
     "globals": { 
         "jasmine": false, 
