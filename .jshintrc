@@ -1,0 +1,15 @@
+{
+    "browser": true,
+    "browserify": true,
+    "devel": true,
+    "esversion": 6,
+    "asi": true,
+    "globals": { 
+        "jasmine": false, 
+        "describe": false, 
+        "it": false, 
+        "expect": false, 
+        "beforeEach": false, 
+        "afterEach": false
+    } 
+}
